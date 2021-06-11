@@ -1,0 +1,2 @@
+rootProject.name = "ReceiveSMS"
+include ':app'
